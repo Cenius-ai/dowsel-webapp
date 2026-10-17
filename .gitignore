@@ -1,0 +1,15 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Packaging output
+build/
+dist/
+*.egg-info/
+
+# Dowsel's own tally file - yours, never committed
+.dowsel.json
+
+# Local environment overrides
+.env

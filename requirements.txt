@@ -1,0 +1,3 @@
+# Dowsel imports nothing outside the Python standard library.
+# The only declared dependency is the test runner (python3 -m pytest).
+pytest>=8.0,<10
