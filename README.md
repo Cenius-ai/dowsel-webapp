@@ -23,7 +23,7 @@ _Local clone? See [Quick start](#quick-start) below. cenius.ai is the zero-setup
 
 ## Architecture
 
-A self-contained Full-stack app project (24 files): top-level directories include `tests/`. Run `./install.sh` once to install packages and populate demo data — the app is ready to use immediately after. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
+A self-contained Full-stack app project (14 files): top-level directories include `tests/`. Run `./install.sh` once to install packages and populate demo data — the app is ready to use immediately after. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
 
 ## Features
 
